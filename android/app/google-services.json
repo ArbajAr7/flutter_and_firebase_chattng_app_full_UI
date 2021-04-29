@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "330906186074",
+    "project_id": "tamo-90492",
+    "storage_bucket": "tamo-90492.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330906186074:android:4d4878913538bdd9e8c363",
+        "android_client_info": {
+          "package_name": "com.example.t_amo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330906186074-79kkilumuc5qc81pt5pf0ri6ag0gfabj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSPzMejo1e46_TZ_IbcFuwqArcwI-Jl1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330906186074-79kkilumuc5qc81pt5pf0ri6ag0gfabj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
